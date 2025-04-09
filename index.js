@@ -1,0 +1,1 @@
+console.log("Criação de arquivo index.js")
